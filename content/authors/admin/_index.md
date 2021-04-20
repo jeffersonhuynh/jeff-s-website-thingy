@@ -37,7 +37,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jefferson_huynh
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -59,7 +59,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Hello! My name is Jefferson (Jeff) Huynh, and I'm a recent undergraduate from UCLA who is interested in political psychology and social cognition. Broadly, my research interests revolve around the effects of misinformation on various social media outlets and the cognitive processes driving an individual's attitudes and their decision making towards socio-political issues. Previously, I was an undergraduate assistant at the Reasoning Lab, where I helped conduct research on the Hong Kong protest disinformation campaign movement on Twitter. 
