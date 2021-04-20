@@ -21,9 +21,9 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: CEO
-    company: GenCoin
+research experience:
+  - title: Research Assistant at the Reasoning Lab
+    company: University of California, Los Angeles
     company_url: ''
     company_logo: org-gc
     location: California
@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Independent Honors Research
+    company: Pasadena City College 
     company_url: ''
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: TBD
 
 design:
   columns: '2'
